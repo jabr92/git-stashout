@@ -19,7 +19,7 @@ If this workflow sounds familiar to you, it's where `git-stashout` shines!
 ## Installing
 
 1. Put `git-stashout` somewhere in your `PATH`
-2. [Optional] Source `git-stashout-completion` to get branch completion when
+2. [Optional] Source `git-stashout-complete` to get branch completion when
    typing the branch name
 
 ## Using
